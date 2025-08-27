@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Vitor</h1>
 <div>
   <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VHSN276&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHSN276&layout=compact&theme=dark">
   </a>
 </div>
