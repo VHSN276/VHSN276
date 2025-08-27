@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Vitor</h1>
 <div>
-  <h3 align='center'>I am 19 years old, I started my tech life playing some videogames, watching some programming videos and stuffs like that. Ingressed on Cotil (UNICAMP) - Systems Development Technologist, I loved it, and I continued on my graduation at the same area, I will finish it on 2027<br>My favorite languages are: <b>Python, Java, C#, Dart</b></h3>
+  <h3 align='center'>I am 19 years old, I started my tech life playing some videogames, watching some programming videos and stuffs like that. Ingressed on Cotil (UNICAMP) - Systems Development Technologist, I loved it, and I continued on my graduation at the same area, I will finish it on 2027<br>My favorite languages are: Python, Java, C#, Dart<br>My favorite frameworks are: SpringBoot && Flutter</h3>
 </div>
 <div>
   <a href="">
