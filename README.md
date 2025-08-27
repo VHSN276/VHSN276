@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Vitor</h1>
 <div>
+  <h3 align='center'>I am 19 years old, I started my tech life playing some videogames, watching some programming videos and stuffs like that. Ingressed on Cotil (UNICAMP) - Systems Development Technologist, I loved it, and I continued on my graduation at the same area, I will finish on 2027 my gradution.<br>My favorite languages are: <bold>Python, Java, C#, Dart</bold></h3>
+</div>
+<div>
   <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHSN276&layout=compact&theme=dark">
   </a>
